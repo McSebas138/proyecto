@@ -1,5 +1,5 @@
 # Autor
-- Nombre: adsad  
+- Nombre: Sebastian Edgardo Gomez Casillas  
 - Email: a23311017@uthermosillo.edu.mx
 - GitHub: [McSebas138]()
 
